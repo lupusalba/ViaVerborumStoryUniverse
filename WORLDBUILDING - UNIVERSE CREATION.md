@@ -1,0 +1,133 @@
+# World building:
+## General structure:
+- universe is split in inner and outer region
+- inner region is:
+	-  abudant in mana, mana is omnipresent on most celestial bodies
+	- life evolved with mana
+	- abudant in all resources
+	- oldest part of the universe
+	- home to first life (and oldest species)
+	- divided between 3 old mega empires
+		- Magic empire
+			- ruled by magic species: elf and dark elf as nobility and rulers, orcs and other species as commoners.
+			- technology based on magic. 
+			- general life span is long for elfs (300 to 600 years), and if they achived success as mages or knights, life span is extended. orc live 150 years on average, unless they achived success as mages or knights.
+			- being a knight, depending on the level, life can be extended 10 to 200% (general estimate).
+			- being a mage, depending on the level, life can be extended 30 to 500% (general estimate).
+			- has many galaxies and vasslas under it.
+			- over direct territories, governors rule (usually 6th circle mages)
+			- main fighting force:
+				- mages:
+					- born with mana pool (condition to becoming mage)
+					- power levels from 1st to 9th circle
+					- with each level, natural life span is extended
+					- leveling up by constructing inner magic circle around mana pool
+					- most common levels are 3rd circle.
+					- blueprints of circles 6 and up are restricted by Royal Tower of Magic
+					- inner magic circles is technique developed by mage scholars of the Royal Tower of Magic.
+					- individuals (nobility) can get education in Royal Magic Academy, if they have talent
+					- talent is needed for magic (high mana affinity, and sensitivity, mana absorbtion), not everyone has it, but most of nobility has it.
+					- talent is one of barriers in advancement
+					- major hurdles in circle leveling are between 3rd and 4th, 6th and 7th, 7th and 8th and 8th and 9th.
+					- mages can risk and try to improvise the circle creation if they do not have blueprint, but it is vary risky
+					- blueprints for circles 1, 2, and 3 are public knowlage.
+						- some mage scholars tried to develop higher circles based on this, and succeeded with varying degrees, but it is still worse than magic towers circles
+					- quality of magic circles impact stability of magic, speed of casting, increase of mana pool capacity (magic circles compress mana and strenghten shell of mana pool)
+					- most nobility is stuck on 6th circle (talent cap)
+					- higher and more talented nobles can reach higher circles
+						- 3 ducal houses produce 7th circle mages nearly in every generation
+						- 8th circle reached probably old ancestors who are in hybernation (extending life span and delaying death to be able to act as trump card of the house and protect it in times of crisis.).
+					- there are 2 known 9th circle mages - current emperor and head of royal magic tower.
+						- vary probable that there are more 9th circle mages in hybernation, and many many 8th circle mages as well in hybernation
+					- Magic tower govern magic academy (main educational institution)
+					- Magic tower has multiple divisions, main ones are:
+						- Combat
+						- reaserch
+						- artifact crafting
+					- mana is absorbed by mages via meditation (absorbtion and refainment)
+						- mages developed magic circles for mana gethering, and refinement (for mana to be as close to mages affinity)
+					- mages have affinity to special mana types (fire, water, earth, wind, light, darkness and other types). 
+					- mana affinity allows less mana consumtion in casting spells of that element (its much more efficient)
+					- its easier to absorb and refine mana of mages affinity
+				- knights:
+					- need less talent then mages to achive success:
+						  - do not need mana pool
+						  - need only mana sensitivity and absorbtion ability
+					- mana is absorbed via techniques (meditation) and body is refined using mana and other resources
+					- vast mejority of population of magic empire are knights
+					- orc tribe is generaly composed of knights
+					- knights levels are divided in:
+						- low
+						- mid
+						- high level knight
+						- master
+						- grandmaster
+					- knights can achive minor increase of lifespan after each breaktrhrough.
+						- and after becoming master:
+							- lifespan is doubled
+						- after becoming grandmaster:
+							- lifespan is doubled again,
+							- age reversal is possible (make body younger again)
+							- body reconstruction is possible (make body younger and more optimal for mana as knight)
+					- knights need to strenghten bones, muscles, inner organs, open mana pathways in the body, form mana core (lesser version of mana pool)
+					- can absorb mana of any type
+					- have lesser requariment in mana purity (less time in mana refinement)
+					- can have mana tribute (highere affinity to special mana and abitlity to use techniques similar to primitive magic)
+					- its public knowlage how to become knight, but methods may differ. 
+					- some methods (methods of nobility, knight families, royal knight academy, special knight schools and strongest knights) have much better effect then techniques publicly avalible.
+					- highest educational institution is royal knight academy
+					- knights are mjority in empire military
+			-  
+		- empire of beasts (magic beasts - dragons and similar, extreamly high individual power, born with high power level)
+		- empire of shadows (mysterious, small numbers, power eaqual to other empires)
+		- minor empires and forces (nearly all are vassals to one of 3 old empires)
+- outer region:
+	-  circular region around inner region, divided from inner region by vast emptiness and asteroid belt from both sides
+	- assumed by inner region residents that is dead - no life
+	- scarce resources
+	- few explorations were tried, but with no success and they were not profitable
+	- NO MANA
+	- hidden in one part, closest to border of magic empire is human territory
+	- humans developed in dead part of universe for a short time in terms of universe scale
+	- humans, after many bloody wars, united under one government and started siriously space exploration
+	- over time, humans mastered space colonization, terraforming, upgraded space travel, and colonizaded dozens of celestial bodies.
+	- human population is close to trillion
+	- humans still fight between each other, but it is strictly regulated
+	- humans are governed by Earth Council
+		- HQ is located on Earth, "origin of humans race"
+		- Earth Councils is governed by Elder Council
+	- - humans have weak shell of mana pool
+		- nearly all humans have mana pool (and potential for magic)
+		- all humans have potential to be knights
+		- humans were not exposed to mana
+		- humans are currently at stage 0.2 of evolution - they need exposure to mana to evolve.
+			- if human is exposed to mana in uncontrolled situation, there is more then 98% that human will die.
+			- humans need systematic evolution, for which humans are capable
+			- humans can safely evolve, in controlled conditions and with right aproach
+			- humans probably do not need a lot of time either (for one human 10 years at most, and for talented ones 5)
+		- **humans do not know about existance of mana, or its effects**
+		- humans always first invest and improve military
+		- humans have nearly speed of light travel ability and vast resources
+		- (resources that humans need to travel through whole galaxy are avalible in inner universe much easier)
+		- (resources that are precious to humans, are nearly useless to inner universe, it technology is based in different direction)
+		- humans mastered science, and are defining rules of universe, and use power of universe for themself (gravity drive - using power of gravity of celestial bodies to speed up, using power of stars with the Dyson sphere to harvest energy, etc - more will be added).
+
+	
+	- GRAND SECRET, FORGOTTEN HYSTORY: 
+	- ** this is to not be reviled at any point, just part of worldbuilding**
+		- humans are not born in deathworld, Earth
+		- humans run away to outer universe to hide and survive
+		- humans are most stubborn lifeform in whole universe, they do not want to go extinct.
+		- humans are most bloody and power hungry race, with high intelligence.
+		- humans are more prone to war then orcs
+		- **humans, and inner universe, do not know about  _GRAND SECRET, FORGOTTEN HYSTORY_**
+		- **humans assume that they are born on Earth**
+		
+
+
+
+
+## POWER SYSTEM, ENERGIES - MANA
+### MANA
+- one of main forces of evolution - it evolved all spices existing in inner universe - those who could not evolve - died
+- at beginning of inner universe, just as life was born, it was tested by mana. first species were monsters (not beasts - beasts have intelligence, monsters do not). until they evolved to accept mana, they were monsters. 
