@@ -167,7 +167,8 @@ Status: Draft (canon-in-progress)
 - Affinity:
   - lowers mana consumption for that element (more efficient)
   - makes it easier to absorb/refine that mana type
-
+- mages can use different devices to aid in spell casting (like wand and staff)
+- mages can use magic formations and circles to attract mana (or move it in general)
 ### OPEN SLOT
 - Mage laws, taboo spells, enforcement arm, internal politics of Tower vs nobles.
 
@@ -314,6 +315,7 @@ Status: Draft (canon-in-progress)
 - Humans have a weak shell of mana pool.
 - Nearly all humans have a mana pool (potential for magic).
 - All humans have potential to be knights.
+- Most humans has potential to be both mage and knight (to practice both fields)
 - Humans were not exposed to mana.
 - Humans are at stage **0.2** of evolution; they need exposure to mana to evolve.
   - Uncontrolled exposure: >98% chance the human dies.
@@ -323,6 +325,7 @@ Status: Draft (canon-in-progress)
     - For one human: 10 years at most
     - For talented ones: 5 years
 - Humans do not know about the existence of mana or its effects.
+- Humans, on average have medium level talent for magic
 
 ## 4.5 Humans & the Inner Region
 ### CANON
@@ -359,14 +362,54 @@ Status: Draft (canon-in-progress)
 - At the beginning of the Inner universe, as life was born, it was tested by mana.
   - First species were **monsters** (not beasts):
     - Beasts have intelligence
-    - Monsters do not
+    - Beasts have uniform form (race, stable shape and structure)
+    - Monsters do not have:
+	    - intelligence - but possible very high instinct level
+	    - race - all monsters are different
   - Until they evolved to accept mana, they were monsters.
 
-### OPEN SLOT (needs definition for consistency)
-- Mana physics: source, movement, depletion, storage.
-- Interaction rules: what mana does to biology/technology.
-- Taxonomy: monster vs beast vs sapient species (edge cases).
-- Anti-mana / null zones (if any).
+### Mana physics: 
+- Mana is omnipresent force on all celestial bodies
+-  Mana exist outside celestial bodies (in space) of inner universe in form of current (like water current)
+- Mana source is not known
+- Mana does not deplete - all beings and things may absorb mana, but when they die, mana returns in some shape to the universe (as mana crystal or just mana)
+-  Mana is in "gaseous" state generally.
+	 - Under special conditions, mana can condense into mana crystal (resource scarce as copper on Earth)
+	- With special technique, mana crystals can be manufactured (but its vary demanding)
+- Living beings can store mana in mana pool (mages), aura core (knights), body or body parts (Beasts) 
+
+### Interaction rules: what mana does to biology/technology.
+- Mana force evolution of living beings and can strengthen/change objects (minerals, materials, artifacts, etc.)
+	- If living being (not yet evolved) do not adapt (evolve) it will die
+	- with no guidance and special conditions, loss of sanity and death is vary likely.
+	- once evolved, living beings get extended lifespan and ability to use mana to some extant
+
+### Taxonomy: monster vs beast vs sapient species (edge cases).
+- **Monster:**
+	- can be in any shape
+	- can have any ability
+	- do not have reproductive ability
+	- do not have sanity
+	- do not have consciousness
+	- have instinct, can have vary strong instinct
+
+- **Beast:**
+	- races: dragon, phoenix, Merfolk, Roc, Wolf, Tiger, Vampires (not necessarily human shaped), Arachne, serpent, harpy, three-legged crow, Kun, Bahamut, pegasus, wyvern, drake
+	- have race (there are many of same species)
+	- have reproductive ability
+	- reproductive ability depend on power - the more powerful, smaller reproductive ability
+	 - have reproductive ability
+	- have sanity
+	- have consciousness
+	- have civilization and society
+	- have laws and rules
+	- have intelligence
+
+- **Sapient Species**:
+	- **races**: Elf, Dark Elf, Dwarf, Orc, Humans, Beastman etc.
+
+### Mana null zone
+Border of boundary (asteroid belts), inside boundary, and whole outer universe
 
 ---
 
@@ -421,13 +464,28 @@ Status: Draft (canon-in-progress)
 - Trade/economy niche:
 - Taboos:
 - “What outsiders get wrong”:
+---
+# 10) Story line #1 - The Void Walker
+## Premise:
 
+# Story plot-line
+Year is 2850. Humans conquored dozens of dead planets, and terraformed them. Human population is nearly half trillion.
+In year 2152, humans first detected anomaly on one side of the universe - border from edge to edge of known universe on that side. Humans could not see what is inside.
+From year 2204 till now, human have sent many probes, but nothing could pass through the asteroid belt.
+Humans started using asteroid belt and fast moving asteroid for development:
+- fast moving asteroids were used as practice targets for new weapons
+- navigation, targeting and ai systems were trained on movements of asteroids.
+- every new weapon was shot at least once at the asteroid belt
+Only in year 2583 did humans succeed in making a hole - using power of star and directing its energy as laser to cut a pathway through which they sent probe - automated spaceship for 10 year long mission.Success was achieved  in Gemini Domain, under 4 star general Silver. After 10 years, humans activated Star Canon again, to open the path for the probe to return. Probe returned, but results were confusing - there was nothing - big expanse of just nothing - no celestial bodies, no light, no asteroid or debris, only emptiness. Humans continued to use asteroid belt as training dummy, and from time to time, they would send more and more probes through the barrier. over time, Star Canon was optimized and improved, it needed less time to charge, it shoot more concentrated beam, it needed less time between each shoot. After more then 100 years, Star Canon could shoot once per month and humans send more probes in. After all this time, humans made a chain of miniature space stations to try and find the end of empty space. One of biggest challenges was random apearacne of spatial rifts - anomalies that thore thorugh everything and destroyed space stations from time to time. Humans needed to send new space stations regullary to keep chain active. In year 2743, the end was found - another asteroid belt. Greatest minds of human race were gathered and tasked with finding a way to send probes over border. It was decided to use Star Canon, and to fire array of beams on the same spot on the other side - there was no other way. Humans started building array of Star Canons around the closest star. After 122 years from first shot, with a lot of resources of all humanity, project was finished, and 120 Star Canons were connected. This array of Star Canons, called Path Maker, could keep beam continuous for  3 days, and its beam was at 89% of speed of light. Plan was to have a automated space ship with deep space probes and mapping equipment - pinnacle of human technology, go in when beam opens the  way. Space ship was already sent, and waiting in position close to the planed hole. Plan was a success - beam reached the other side and made a path for the spaceship. Spaceship was gone for 6 moths. After 6 months, the hole was opened and spaceship returned. Most of retrieved data was corrupted and malfunctioning, but what was confirmed was that there are celestial bodies and marks of space fearing civilization. Human Earth council started planning for expedition - infiltration. Team was assembled, best operatives of human race. they were sent with fastest, stealthiest and most durable space ship. but in the middle of the travel through the boundary, vary large spatial rift apeared before the space ship, and destroyed it. mission was marked as failed. new missions with humans were postponed. 
+Biggest benefit of boundary expolration was development of star canon and star canon array. humans decided to improve their technology.
 
-
-
-
-
-# 10) Story line #1
+## Meta-data
+- **Genre:** High Fantasy / Sci-Fi
+- **Target Audience:** Adult Males.
+- **Tone:** "Competence Porn," Gritty, Stoic. **No Melodrama. 
+- **Magic Description Rule:** **NO PHYSICS TERMS.** Do not use words like "caloric burn," "atoms," or "velocity." Describe magic as **Structure** and **Flow**. Spells are mana given form; John disrupts the form.
+-  **Narrative Voice:** Third Person Limited (John).
+	- **Note:** John is **not a robot**. He is human. He has emotions, but he controls them. He is not depressed; he is **excited** by the prospect of evolution and learning. He treats this new life as a mission, not a tragedy.
 ## **Main Character:** 
 - **Name:** John Silver
 - **Family:** 
@@ -455,12 +513,108 @@ Status: Draft (canon-in-progress)
 		- human medicine
 		- infiltration (against humans)
 		- espionage (against humans)
-- **Character:** Calm, confident, attentive, fast learner, adventurous (reckless)
+- **Character:** Calm (on surface) - vary fiery (but self controlled), confident, attentive, fast learner, adventurous (reckless), optimist
+- **Magic affinity:** Space
+- **Magic talent:** very high / genius
+- **Mana pool size:** inborn, vary large
+- **Mana evolution: ** 
+	- **Story start:** 0.2 (not evolved by mana, normal human)
+	- **Story end** 0.9 (nearly evolved)
+
+## Side Characters:
+### Casil
+- Calm, highly intelligent, curious, nearly gave up advancement to next circle
+- **dark elf **
+- **7th circle mage** of fire affinity
+- mage scholar (researcher of magic, magic theoretician)
+- Left Royal magic tower after disputes
+- Not antagonistic with Royal magic tower
+- Stuck on 7th circle
+- not adapt at politics
+- strongest mage on his planet
+- live in seclusion, far from any settlement, in his magic tower
+- has no slaves, servants or disciples
+- he is spending all time on different research
+- other residents and power players are wary of him, but not antagonistic
+- does not engage with his family (prefer solitude)
+- did not take any disciple from family members because of lack of talent
+- left copies of most of his magic resources (books and grimoires) in his family
 ## Groups and organisations
 ### Silver family
-- Long history (more than 400 years)
+- Long history (more than 500 years)
 - Each family member served in military
 - Most family members have high positions in human army
 - One of the top 50 families of whole human territory
-- Current head, Liam Silver is 4 star general, in charge of 14% of human territory (Domain of Gemini)
+- Current head, Liam Silver is 4 star general, in charge of 8% of total human territory (Domain of Gemini)
+- No family infighting
+- clear merit system
+
+## Locations
+### Casil's magic tower
+- rare magic treasure
+- high-grade magic artifact
+- has defensive formations of 7th circle and few of 8th
+- has attack formations of 7th circle
+- can hide from weak 8th circle mage (whole tower and residents)
+- can survive attack from 7th circle mage with no problem
+- can survive attack from 8th circle mage for half hour
+- can be resized (from full size to 2 cm)
+	- weight proportional to the size
+	- can store plants while small
+	- can not store living beings when small
+- **Rooms:**
+	- **master bedroom**
+	- **small storage (Johns bedroom)**
+	- **main library (library with Casil's collection)**
+		- it contains best magic learning resources on the whole planet
+		- contains restricted knowledge of the Royal magic tower
+			- blueprints of restricted magic:
+				- blueprints of inner circles from 1st to 6th
+				- blueprints of forbidden spells (too destructive, war type)
+				- high level magic theory
+				- high quality artifact making guides and learning material
+				- forbidden formations (for hiding, war/fight, defense, attack, mana absorption/dispersion)
+				- high level mana absorption technique
+		- general high quality magic knowledge
+		- universal exercises for mages (mana shaping and transforming, mana manipulation - outside of body)
+		- basic  magic spells of all elements 
+			- (but number differ - more popular and common - the bigger number
+				- water, fire, earth, air - dozens per type
+				- light, darkness - less then 8 per type
+				- space - only 2 (mini-gate, minor teleportation)
+		- basic formations for all uses
+		- basic artifact blueprints
+		- magic theory
+	- **Study**
+		- contains Casil's most precious collection of magic resources 
+			- blueprints for 7th and 8th inner magic circle
+			- incomplete spatial magic spell - Pocket Dimension
+			- incomplete spatial magic spells Teleportation and Gate
+			- top level mana absorption technique
+	- **Main control room**
+		- place to control the tower
+			- all formations,
+			- defense system
+			- inner workings of tower
+	- **Greenhouse**
+		- for cultivation of minor magical herbs
+		- (located inside of the tower)
+	- **Enforced magic testing room**
+		- can contain and survive spell up to 5th rank with no problem and spells of 6th rank with some risks
+	- **Training room**
+		- semi-8th magic formation for mana gathering (for easier and faster absorption of mana)
+		- insulation from all noise
+	- **Artifact refining room**
+		- mid grade quality
+	- **Main Storage**
+		- storage for minerals, materials, processed herbs, less important artifacts, etc
+	- **Other rooms**
+		- not yet defined
+
+### Casil's home planet
+- one of many planets under direct control of the Magic Empire
+- Casil's family is one of most powerful (if he is excluded, if he is included - then they are most powerful)
+- Current plant governor is his son
+- Lush, beautiful, **mana-dense** environment
+- one fourth is wilderness (intentionally kept, for practical training and resource production)
 
