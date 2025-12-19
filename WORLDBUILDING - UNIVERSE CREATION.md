@@ -232,12 +232,16 @@ Status: Draft (canon-in-progress)
 ### CANON (current)
 - Magic beasts (dragons and similar).
 - Extremely high individual power.
+- able to passively absorb mana
+- absorb mana in body/body part
+	- pros: much higher mana capacity then other races
+	- cons: mana purity lower, efficiency lower.
 - Born with high power level.
 - "The Empire" is in name only, It's a **dominion web** of apex territories enforced by overwhelmingly powerful individuals.
 
 ### GOAL (what they want)
 - To not be interrupted
-- They do not desire conquest or outside expanison
+- They do not desire conquest or outside expansion
 - At slightest provocation or intrusion on their territory (by other empires), they strike with full force (or send strongest fighter) and destroy the intruder.
 
 ### METHOD (how they project power)
@@ -469,6 +473,119 @@ Border of boundary (asteroid belts), inside boundary, and whole outer universe
 ## Premise:
 
 # Story plot-line
+After accident with spatial rift, officer John Silver awakes in the middle of small forest, close to the dirt road. He gets captured by traveling orc merchant, and gifted (with many other things) to the planet governor. governor did not know what to do with John, so he gifted him to his father, arch mage Casil, and sent John to Casil's magic tower.
+- Casil is curious about john (since he is not native and he is getting light mana poisoning). John is wary of Casil but complies for now.
+- John have language knowledge forced in his head by Casil casting 6th circle spell - Knowledge Imprint
+- Casil start testing John and discover that he is not evolved by mana - which is impossible to be in inner universe. 
+- John, analyzing his situation, understands that he is hopeless (no way home, sick from mana poisoning, captured by mage), and he acknowledge that he is already dead, so he can not die again. he accepts his situation, and let himself be free of everything (duty to family, duty to human race). He decides that it is better for him to accept this world as his new reality, and to make the best of it. 
+	- **Note:** John is not depressed, or anxious. John is exited to be in new world and existence of magic.
+- John is tested by Casil for various things
+	- Some test are borderline torture, but Casil do not do any permanent damage
+	- Some test John do not feel at all
+	- Casil finds that John has great potential for magic (even not evolved yet), and even rare Space affinity - but he also finds that something is not right with Johns mana pool.
+- John is getting interrogated by Casil (where is he from, how did he end up here, are there more beings like him, etc.) 
+- After all tests, Casil decides that John can be a vary good research project and that it can bring him a lot of new insights in mana:
+	- Casil can find how evolution by mana works
+	- Casil can observe evolution and guide it
+- John is gets role of servant and small storage is his bedroom.
+- John is guided regularly by Casil until he learns mana absorption and form first mana circle
+- As John absorb more mana, his mana poisoning gets more severe (nausea, lightheartedness, vomiting, disorientation, passing out).
+	- John tries to reveres mana absorption technique - to disperse mana
+	- John stops absorbing mana after forming first inner circle
+	- john start to actively practice mana dispersion
+- Casil notices what John is doing, and after more special test, he concludes that, since John did not complete his evolution by mana, even though he does have potential as mage and his mana pool is filled with small amount of mana, his mana pool shell is too weak - it can break with little more pressure. With mana poisoning, incomplete evolution and probable mana pool breaking, John has around 3 to 5 years to live. 
+	- Casil is disappointed in John, but decides to use him as servant (to do manual labor) and to do more experiment on him.
+	- John can access most parts of the tower
+- Casil returns to his other research and experiments.
+- John does not know how long he will able to postpone his death (with mana dispersion), or when Casil may decided to more harmful experiments on him
+- John continuous practicing mana dispersion, and notices that:
+	- by expelling mana from mana pool, he is speeding up his evolution
+	- any harm or injury is healing much faster
+	- pressure is much less on mana pool shell
+	- he can practice mana dispersion while moving (when mage practice mana absorption and refainment, they usaulay sit down and meditate, vary few can move around. Beasts can move around and passivly absorb mana)
+- John starts doing physical exercises at night, and combine them with mana dispersion -> effect of evolution is much bigger and training is more effective -> John is conditioning his body and evolving it.
+- In free time (after all manual labor), john spends most of his time in the library, learning basic magic, basic magic theory, basic spells.
+- John makes big advancements in his learning, and master basic mana theory
+- John finds book on most basic magic exercises (moving mana in the body, pushing out mana from mana pool and moving that mana outside in different shapes, mana detection and sensitivity exercises. etc) - all exercises are universal for mages of any affinity. _most mages do not spend more than a day on this, since they think it is not effective and is outdated_ 
+	- John add all exercises to his routine
+	- John can practice all exercises since he does not need to gather mana in mana pool, but to disperse it outside
+		- normal mage would need to get mana inside, and it would be too wasteful to just spend mana on some basic exercises with no clear or immediate benefit
+- John continue to learn basic magic
+- John learns first circle space spell Mini Gate (most basic space spell, meant as introduction to The Gate spell)
+	- John add practice of this spell to his routine
+- John spend more and more time in the library 
+	- He perfected basic magic knowledge
+	- He learned:
+		- how to form and blueprints for inner magic circles from 1st to 3rd
+		- mini gate and minor teleport (theory only)
+	- He understands:
+		- basic spells of other elements (for reference), but he can not cast any spell except those of space affinity
+- Casil is stuck in his study for few months (he exited few times at the beginning), doing some research
+- John is no longer suffering from mana poisoning
+- John started to think of practical application of the Mini Gate spell:
+	- opening one gate next to him and one next to the target, shooting at the target at point blank (rock, some weapon, knife)
+	- opening vary small mini gate to disrupt magic spells, formations, ambient mana
+	- getting things from far away (moving things from his hand to shelf and reversed for example)
+- John notices that it is easier to learn and master spells after practicing exercises from exercise book
+- John continues his routine and gets batter and batter in every field
+	- he master mini gate (he can open gate far away, he can decide and adjust mini gate size, he can cast mini gate vary fast - like experienced mage)
+- Casil leaves his study, and checkup on John
+	- Casil is surprised about John state 
+		- no more mana poisoning
+		- barely first circle mana quantity in mana pool (negative surprise)
+	- John hides his actual progress (all knowledge he mastered and learned)
+- Casil returns to his study again for few months
+- John starts to increase range of mini gate, and to try to open it outside of the tower
+- John learns:
+	- theory of all basic spells of first and second circle in Casil's library (but can not cast any)
+	- theory on how to form and blueprint of inner magic circles from 4th to 6th from the library
+- John find incomplete high level space spell Pocket Dimension in space theory book, fallen behind the shelf
+	- John gets idea to make mini pocket dimension inside himself, but he is not disillusioned - he only aims to make Pocket Dimension of size 1:1, so he can use it as shell of mana pool.
+		- If he masters it completely, he may be able to make much bigger and more stable space inside mana pool and much bigger storage
+- John cut down time in the library and dedicate it to completing variation of Pocket Dimension spell
+- John gets better and better with mini pocket dimension
+- John succeeds in making mini pocket dimension inside mana pool (below mana pool shell)
+	- he is vary excited, his attention wakens, and pocket dimension spell breaks (spells usually last short period of time, or while they are cast)
+	- he damages his mana shell and his inner organs, nearly killing himself
+	- he barely survives, and very slowly (over whole day) practice mana dispersion to heal himself as much as possible.
+	- after he heals himself, he understands his mistake.
+	- He do another pocket dimension, but this time he is calm (since he confirmed that it is possible)
+	- he spends 3 days in meditation, keeping pocket dimension active.
+	- after 3 days, he tries to move - vary slowly and little.
+	- after 2 more days of light moving, he can move more and faster
+	- after one more day he can move nearly normally.
+	- pocket dimension is acting as mana shell and he is not under risk of dying from mana shell braking (but he will die if pocket dimension destabilizes and breaks)
+- John stops everything and dedicate all his time to the library 
+	- he can not practice anything since he need to keep pocket dimension active all the time
+	- he can not absorb mana since he can not spare more attention to it
+	- he can not disperse mana (and there is no need any more)
+	- he can not sleep first few days (since he need to keep spell active)
+	- after a week, he can keep spell active for dozen minutes in his sleep (_needs revision and improvement_)
+	- John starts learning other fields of magic (he mastered only basic theory, and basic magic spells):
+		- magic formations
+		- artifact crafting
+		- spells of second and third circle of other elements (for reference and inspiration)
+		- he reads encyclopedia of magic resources, encyclopedia of magic races, encyclopedia of artifacts
+- after 3 weeks, John is completely used to keeping pocket dimension active and he can sleep longer
+- After week 4, John starts to practice mana exercises again
+- after week 5, John starts to cast another spell - the Mini Gate (with pocket dimension still active, so its technically high level skill - multi cast)
+- after week 6, John tries to absorb mana
+	- mana is absorbed with no problems, but he must meditate and move it in pocket dimension and mana pool (pocket dimension is blocking everything from going in or out, including mana)
+	- John can store mana in mana pool with no problem
+- after weak 7, John forms second inner magic circle
+- John  spends 3 days to stabilizes and refine mana again in the pocket dimension (mana pool)
+- John returns to his old routine (library, mana exercises, mini gate spell practice, mana dispersion, physical exercise)
+	- since he needs to disperse mana for evolution now, he understands how wasteful that action is (since he is spending mana that he already refined).
+	- he understands that he wont be able to advance in circle number of mana quantity if he continues to do it like that - he needs a way to increase absorption and refinement
+	- John gets idea to open mini gate outside of the tower (since if he made large disturbance in mana inside tower, he will alert Casil), and absorb mana from outside
+	- John start to absorb mana from outside, efficiency is better but still not good enough
+	- John decides to open one more pair of gates (he barely succeeds but come close to dying since he nearly lost control of pocket dimension)
+		- efficiency is now much better, he is adsorbing more then dispersing
+- John continuous his routine (learn, train, evolve, practice)
+- John figures out that if Casil found out his situation, he may change his attitude to him and he may be at risk of death or other miserable fate again - he needs to hide his ability
+	- he looks for spells  and formations for hiding, gets inspiration, and modify hiding formation to be space affinity spell, and cast it over pocket dimension
+	- John again stops his routine and dedicate all time to keeping spells pocket dimension and new spell Minor Veil (spell for hiding) active at the same time
+## Backstory of Humans
 Year is 2850. Humans conquered dozens of dead planets, and terraformed them. Human population is nearly half trillion.
 In year 2152, humans first detected anomaly on one side of the universe - border from edge to edge of known universe on that side. Humans could not see what is inside.
 From year 2204 till now, human have sent many probes, but nothing could pass through the asteroid belt.
@@ -479,8 +596,7 @@ Humans started using asteroid belt and fast moving asteroid for development:
 Only in year 2583 did humans succeed in making a hole - using power of star and directing its energy as laser to cut a pathway through which they sent probe - automated spaceship for 10 year long mission.Success was achieved  in Gemini Domain, under 4 star general Silver. After 10 years, humans activated Star Canon again, to open the path for the probe to return. Probe returned, but results were confusing - there was nothing - big expanse of just nothing - no celestial bodies, no light, no asteroid or debris, only emptiness. Humans continued to use asteroid belt as training dummy, and from time to time, they would send more and more probes through the barrier. over time, Star Canon was optimized and improved, it needed less time to charge, it shoot more concentrated beam, it needed less time between each shoot. After more then 100 years, Star Canon could shoot once per month and humans send more probes in. After all this time, humans made a chain of miniature space stations to try and find the end of empty space. One of biggest challenges was random appearance of spatial rifts - anomalies that tore through everything and destroyed space stations from time to time. Humans needed to send new space stations regularly to keep chain active. In year 2743, the end was found - another asteroid belt. Greatest minds of human race were gathered and tasked with finding a way to send probes over border. It was decided to use Star Canon, and to fire array of beams on the same spot on the other side - there was no other way. Humans started building array of Star Canons around the closest star. After 122 years from first shot, with a lot of resources of all humanity, project was finished, and 120 Star Canons were connected. This array of Star Canons, called Path Maker, could keep beam continuous for  3 days, and its beam was at 89% of speed of light. Plan was to have a automated space ship with deep space probes and mapping equipment - pinnacle of human technology, go in when beam opens the  way. Space ship was already sent, and waiting in position close to the planed hole. Plan was a success - beam reached the other side and made a path for the spaceship. Spaceship was gone for 6 moths. After 6 months, the hole was opened and spaceship returned. Most of retrieved data was corrupted and malfunctioning, but what was confirmed was that there are celestial bodies and marks of space fearing civilization. Human Earth council started planning for expedition - infiltration. Team was assembled, best operatives of human race. they were sent with fastest, stealthiest and most durable space ship. but in the middle of the travel through the boundary, vary large spatial rift appeared before the space ship, and destroyed it. mission was marked as failed. new missions with humans were postponed. 
 Biggest benefit of boundary exploration was development of star canon and star canon array. humans decided to improve their technology.
 
-After accident with spatial rift, officer John Silver awakes in the middle of small forest, close to the dirt road. He gets captured by traveling orc merchant, and gifted (with many other things) to the planet governor. governor did not know what to do with John, so he gifted him to his father, arch mage Casil, and sent John to Casil's magic tower.
-Casil is curious about john (since he is not native and he is getting light mana poisoning). Casil cast 6th circle spell for imprinting knowledge on John to teach him language. Casil start testing John and discover that he is not evolved by mana - which is impossible. Casil test John some more, and find that he has potential for magic and even rare space affinity. Casil starts doing light experiments on John, while interrogating him. Casil teach John basic mana gathering technique.
+
 
 ## Meta-data
 - **Genre:** High Fantasy / Sci-Fi
