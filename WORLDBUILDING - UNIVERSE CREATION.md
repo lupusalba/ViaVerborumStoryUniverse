@@ -668,6 +668,20 @@ Biggest benefit of boundary exploration was development of star canon and star c
 - No family infighting
 - clear merit system
 
+## Everglow family 
+- Casil's family 
+- ancient dark elf family
+- one of great noble families of magic empire 
+- they had many 8th circle mages
+- every patriarch is 8th circle mage
+- family members hold positions in military, magic tower and empire administration 
+- family has 5 branch families
+- if branch member is very talented or accomplish great merit, they may be adopted in the main family
+- members of main family have more and better benefits 
+- Main family is located on the other side of the magic empire
+- each branch family is located on different planet
+- each branch family has some specialization 
+- Casil belongs to the one of the branches
 ## Locations
 ### Casil's magic tower
 - rare magic treasure
