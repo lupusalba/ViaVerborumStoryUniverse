@@ -124,7 +124,9 @@ Status: Draft (canon-in-progress)
 
 ### CANON — Knowledge Control
 - Blueprints for circles **1, 2, 3** are public knowledge.
-- Blueprints of circles **6 and up** are restricted by the **Royal Tower of Magic**.
+- blueprints for circles after 6th are heavily restricted
+- great nobles can legally possess 7th/8th legacy blueprints
+- Royal Tower restricts **forbidden war spells / formations**
 - Inner magic circles are a technique developed by mage scholars of the **Royal Tower of Magic**.
 - Some mage scholars tried developing higher circles from public blueprints; succeeded with varying degrees, but results are worse than Magic Tower circles.
 

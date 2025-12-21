@@ -133,9 +133,12 @@ After accident with spatial rift, officer John Silver awakes in the middle of sm
 - John continued his routine (exercises, learning, spell casting practice of the Mini Gate)
 - ### this part may be changed
 	-  2 days after Casil left, magic tower defenses had been activated - magic tower was under attack
-	- **NOTE:** We may need to change cause of attack and cause of enemy arrival to be more plausible
-	- arch mage Aegnor (early 7th circle, combat type), arch mage of magic tower, and enemy of Casil, member of rival noble family with ancient enmity, came under orders of Royal Magic Tower to personally bring a letter from Vice Tower Master to Casil.
-	- Since Casil did not come out, Aegnor decided to do few probing strikes on the tower, Casil did not come still, Aegnor intensified strikes from probing to active attack, but Casil did not come still (nor did Casil used tower to fight back). Aegnor gambled that Casil is not in the tower or that he can not engage in fight, so he started to rain attack spell after spell, and to prepare tactical, forbidden war spell to damage the tower.
+	 -  attacker  is part of terrorist/rebel group, and he wont be alone - two 7th circle mages will start attack on tower with group of 6th and 5th mages with a goal of stealing Casil's tower and all resources and killing Casil (famous and respected mage scholar of the Royal magic tower and descendant of ancient mage family)
+	- The reason Casil left in the hurry is because smaller part of group (1 7th circle mage and group of 6th and 5th circle mage attacked his family). His son (current patriarch of that branch family) sent him SOS and call for help
+	- John will kill (snipe, ambush) a few 5th circle mages and wound 6th circle mage
+	- John will use throwing knives and similar "mortal" weapons (for mages this weapons are less detectable - since they are not used in the fights with mages)
+	- John will disrupt combined attack of 7th circle mage and group of 6th circle mages (7th circle mage constructed the war spell and other mages added their mana, so they can pull more ambient mana to cast peak seventh circle war spell)
+	- Casil will be shocked by John's practical ability (since John will be at 3rd circle at that point)
 	- Since first spell, John got on high alert, but he did not know what he can do, or will tower defense hold
 	- John tried to go in tower control room, but it was locked
 	- John observed attack from the window, and tried to cast the Mini Gate spell outside of the tower to disrupt the attack. 
@@ -148,7 +151,7 @@ After accident with spatial rift, officer John Silver awakes in the middle of sm
 
 ### unfinished parts of story:
  - we have 2 options for story development after Casil leaves the tower:
-	 - **Option A:**
+	 - **Option A: (will not be used)**
 		 - enemy attacks, John shows his tactical application of space magic and keep enemy distracted for short time until Casil returns
 		 - John forces Casil to take him as a student and to not harm him (since John had revealed his hidden power)
 		 - John and Casil make an oath
@@ -387,7 +390,7 @@ we will go with option A, but take good parts of option B
 	- John will disrupt combined attack of 7th circle mage and group of 6th circle mages (7th circle mage constructed the war spell and other mages added their mana, so they can pull more ambient mana to cast peak seventh circle war spell)
 - Casil will be shocked by John's practical ability (since John will be at 3rd circle at that point)
 
-### 4) Give John’s space magic hard rules (prevents Mary Sue vibes)
+# 4) Give John’s space magic hard rules (prevents Mary Sue vibes)
 - John only have few spells:
 	- **Mini Gate** - this spell was used as exercises by space mages, it was not used in a way that John uses it.
 		- This spell, in its original form, requires of caster to have clear line of sight for second gate, and first gate must be close to the caster.
@@ -417,3 +420,4 @@ we will go with option A, but take good parts of option B
 		- This spell was used in building Space Jump Box
 	- **Space Time Box** - Artifact designed and built by John 
 		- it was meant to be used on himself, but as he as was building it, it had higher and higher requirements for power source and less protection for the one who is using it, so he need to use it on the Casil's tower. he modified Space Veil combined with Pocket dimension to develop new spell that would cut space of around the tower (it could cut more, but it needs stronger power source and better materials to be embedded in)
+- 
