@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "WORLDBUILDING - UNIVERSE CREATION"
             }
+          },
+          {
+            "id": "5d26ca0843f6e32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story line 1 - The Void Walker -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story line 1 - The Void Walker -"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb2acb5523b72330",
+  "active": "5d26ca0843f6e32b",
   "lastOpenFiles": [
+    "Story line 1 - The Void Walker -.md",
+    "WORLDBUILDING - UNIVERSE CREATION.md",
     "Untitled 7.md",
     "Untitled 5.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "WORLDBUILDING - UNIVERSE CREATION.md",
     "The VOid walker - finished outline and worldbuilding - ready for generation/MASTER STORY BIBLE – \"THE VOID WALKER\" (COMPLETE EDITION).md",
     "The VOid walker - finished outline and worldbuilding - ready for generation/The Void Walker - Episode 1 - Beats.md",
     "MASTER STORY BIBLE - \"THE VOID WALKER\".md",
@@ -213,7 +229,6 @@
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-01/Scene3.md",
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-01/Scene2.md",
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-01",
-    "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-02/Scene7.md",
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-02/TheVoidWalker-Episode2-Beats",
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes/episode-02",
     "The VOid walker - finished outline and worldbuilding - ready for generation/episodes",
