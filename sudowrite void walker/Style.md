@@ -1,0 +1,1 @@
+Limited POV. No clichés. Instead, fast-paced, with varied sentence lengths (some very short). Sharp dialogue, intense tone, fast pacing, and cinematic feeling.  Focus on action.
